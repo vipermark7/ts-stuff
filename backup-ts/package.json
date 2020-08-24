@@ -1,0 +1,18 @@
+{
+  "name": "backup-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/node": "^14.6.0",
+    "@types/tar": "^4.0.3",
+    "moment": "^2.27.0",
+    "tar": "^6.0.5"
+  }
+}
